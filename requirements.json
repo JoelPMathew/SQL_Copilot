@@ -1,5 +1,5 @@
 ﻿{
-  "business_objective": "Support a new 'Private Equity' fund structure within Oracle Flexcube Investor Services (FCIS) to accommodate private equity fund operations, including vintage year tracking, capital calls, distributions, and management fee calculations based on committed capital.",
+  "business_objective": "Support a new 'Private Equity' fund structure within Oracle Investor Services (FCIS) to accommodate private equity fund operations, including vintage year tracking, capital calls, distributions, and management fee calculations based on committed capital.",
   "client_type": "Private Equity Fund Managers and Investors",
   "regulatory_constraints": [],
   "in_scope": [

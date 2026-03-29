@@ -1,12 +1,12 @@
-# Flexcube Copilot
+# SQL Copilot
 
-Flexcube Copilot is an AI-powered assistant designed to automate and streamline Oracle Flexcube customizations. It leverages advanced LLMs to analyze requirements, perform impact assessments, and generate code, ensuring a structured and efficient workflow for developers and business analysts.
+SQL Copilot is an AI-powered assistant designed to automate and streamline Oracle database customizations. It leverages advanced LLMs to analyze requirements, perform impact assessments, and generate code, ensuring a structured and efficient workflow for developers and business analysts.
 
 ## 🚀 Features
 
 - **Requirement Analysis**: Automatically distills business requirements into technical specifications.
 - **Impact Assessment**: Identifies potential risks and affected modules during customization.
-- **Code Generation**: Generates standard Oracle Flexcube customization code (SQL, PL/SQL, etc.) based on refined requirements.
+- **Code Generation**: Generates standard Oracle database customization code (SQL, PL/SQL, etc.) based on refined requirements.
 - **Web-Based Interface**: A clean, intuitive dashboard to manage the entire customization lifecycle.
 
 ## 🛠️ Tech Stack
@@ -19,7 +19,7 @@ Flexcube Copilot is an AI-powered assistant designed to automate and streamline 
 ## 📂 Project Structure
 
 ```text
-flexcube_copilot/
+sql_copilot/
 ├── src/
 │   ├── agents/            # Specialized AI agents (Requirement, Impact, Code Gen)
 │   ├── core/              # LLM integration and core data models
@@ -41,8 +41,8 @@ flexcube_copilot/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/JoelPMathew/Flexcube-Copilot.git
-   cd Flexcube-Copilot
+   git clone https://github.com/JoelPMathew/SQL-Copilot.git   
+   cd SQL-Copilot
    ```
 
 2. Install dependencies:
@@ -66,4 +66,4 @@ Open your browser and navigate to `http://127.0.0.1:5000`.
 The project is currently in active development. Core agents for requirement analysis, impact assessment, and code generation are functional and integrated with a preliminary web interface.
 
 ---
-
+Developed by [JoelPMathew](https://github.com/JoelPMathew)
