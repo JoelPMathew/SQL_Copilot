@@ -41,8 +41,8 @@ sql_copilot/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/JoelPMathew/SQL-Copilot.git   
-   cd SQL-Copilot
+   git clone https://github.com/JoelPMathew/SQL_Copilot.git   
+   cd SQL_Copilot
    ```
 
 2. Install dependencies:
